@@ -3,6 +3,6 @@
 
 ## 【ファイルの説明】
 
-_ ByeBye_Noise.py
-  _ avg.tif
-_ Bye_Noise.py
+* ByeBye_Noise.py
+  * avg.tif
+* Bye_Noise.py
